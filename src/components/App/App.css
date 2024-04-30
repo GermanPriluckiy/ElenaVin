@@ -1,0 +1,10 @@
+.page {
+  margin: 0 auto;
+  position: relative;
+  background-color: white;
+  font-family: "Gilroy", Arial, Helvetica, sans-serif;
+  color: black;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}

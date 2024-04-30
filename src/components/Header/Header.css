@@ -1,0 +1,27 @@
+.header {
+  width: 100%;
+  border: 2px solid red;
+  display: flex;
+  
+}
+
+.header__logo {
+  width: 96px;
+  height: 96px;
+}
+
+.header__info-name {
+  margin: 0;
+  padding: 0;
+  font-size: 40px;
+  font-weight: 900;
+  line-height: 1.2;
+}
+
+.header__info-description {
+  margin: 0;
+  padding: 0;
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 1.4;
+}
