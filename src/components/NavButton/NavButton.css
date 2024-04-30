@@ -11,5 +11,6 @@
 .nav-button:hover {
     cursor: pointer;
     opacity: 0.4;
+    transition: opacity 0.5s ease-in-out;
     
 }
