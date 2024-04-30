@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/GermanPriluckiy/ElenaVin/static/css/main.74b2e0cd.css",
-    "main.js": "/GermanPriluckiy/ElenaVin/static/js/main.c23173ed.js",
-    "static/media/logo2.jpg": "/GermanPriluckiy/ElenaVin/static/media/logo2.5ba1c110667770917c10.jpg",
-    "static/media/MainPhoto.jpg": "/GermanPriluckiy/ElenaVin/static/media/MainPhoto.4bf8e2c9b837fa1c0ede.jpg",
-    "static/media/telegram-logo.png": "/GermanPriluckiy/ElenaVin/static/media/telegram-logo.37c9c9e876c40c587b80.png",
-    "static/media/gilroy-thinitalic.woff": "/GermanPriluckiy/ElenaVin/static/media/gilroy-thinitalic.934c6cd5b957baffdd3c.woff",
-    "static/media/gilroy-thinitalic.woff2": "/GermanPriluckiy/ElenaVin/static/media/gilroy-thinitalic.3353b751d207ee837bd6.woff2",
-    "static/media/vk_color_white.svg": "/GermanPriluckiy/ElenaVin/static/media/vk_color_white.b98dba430d66a122cb9da4f204310d4f.svg",
-    "index.html": "/GermanPriluckiy/ElenaVin/index.html",
-    "static/media/youtube-icon.svg": "/GermanPriluckiy/ElenaVin/static/media/youtube-icon.80bc6d51384fe4a5d5c83ddcb6658065.svg",
-    "main.74b2e0cd.css.map": "/GermanPriluckiy/ElenaVin/static/css/main.74b2e0cd.css.map",
-    "main.c23173ed.js.map": "/GermanPriluckiy/ElenaVin/static/js/main.c23173ed.js.map"
+    "main.css": "/ElenaVin/static/css/main.bcde2de7.css",
+    "main.js": "/ElenaVin/static/js/main.2f63d280.js",
+    "static/media/logo2.jpg": "/ElenaVin/static/media/logo2.5ba1c110667770917c10.jpg",
+    "static/media/MainPhoto.jpg": "/ElenaVin/static/media/MainPhoto.4bf8e2c9b837fa1c0ede.jpg",
+    "static/media/telegram-logo.png": "/ElenaVin/static/media/telegram-logo.37c9c9e876c40c587b80.png",
+    "static/media/gilroy-thinitalic.woff": "/ElenaVin/static/media/gilroy-thinitalic.934c6cd5b957baffdd3c.woff",
+    "static/media/gilroy-thinitalic.woff2": "/ElenaVin/static/media/gilroy-thinitalic.3353b751d207ee837bd6.woff2",
+    "static/media/vk_color_white.svg": "/ElenaVin/static/media/vk_color_white.b98dba430d66a122cb9da4f204310d4f.svg",
+    "static/media/youtube-icon.svg": "/ElenaVin/static/media/youtube-icon.80bc6d51384fe4a5d5c83ddcb6658065.svg",
+    "index.html": "/ElenaVin/index.html",
+    "main.bcde2de7.css.map": "/ElenaVin/static/css/main.bcde2de7.css.map",
+    "main.2f63d280.js.map": "/ElenaVin/static/js/main.2f63d280.js.map"
   },
   "entrypoints": [
-    "static/css/main.74b2e0cd.css",
-    "static/js/main.c23173ed.js"
+    "static/css/main.bcde2de7.css",
+    "static/js/main.2f63d280.js"
   ]
 }
