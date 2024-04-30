@@ -1,8 +1,15 @@
 .nav-button {
     margin: 0;
     padding: 0;
-    width: 200px;
-    height: 60px;
+    width: 250px;
+    height: 110px;
     text-align: center;
-    font-size: 26px;
+    font-size: 28px;
+    border-radius: 50px;
+}
+
+.nav-button:hover {
+    cursor: pointer;
+    opacity: 0.4;
+    
 }

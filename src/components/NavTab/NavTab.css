@@ -2,8 +2,8 @@
     margin: 200px 0 200px 200px;
     width: 380px;
     display: grid;
-    grid-template-columns: 200px 200px;
-    grid-template-rows: repeat(2, 60px);
+    grid-template-columns: 250px 250px;
+    grid-template-rows: repeat(2, 110px);
     row-gap: 30px;
     column-gap: 30px;
 }

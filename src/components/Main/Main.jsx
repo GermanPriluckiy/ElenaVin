@@ -1,13 +1,14 @@
 import React from "react";
 import NavTab from "../NavTab/NavTab";
-import Gallery from "../Gallery/Gallery";
+import mainPhoto from "../../images/MainPhoto.jpg" 
+
 
 
 const Main = () => {
   return (
     <div className="main">
         <NavTab />
-        <Gallery />
+        <img src={mainPhoto} className="mainPhoto" alt="Моя фотография" />
     </div>
   )
 };
