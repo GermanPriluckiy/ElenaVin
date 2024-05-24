@@ -1,13 +1,41 @@
 import React from "react";
-import logo from "../../images/logo2.jpg";
 
 const Header = () => {
   return (
     <header className="header">
-      <img className="header__logo" src={logo} alt="Лого Сайта"/>
-      <div className="header__info">
-        <h1 className="header__info-name">Елена Виноградова</h1>
-        <h2 className="header__info-description">Твое тело - твое тело, мое тело - мое тело.</h2>
+      <div className="header__links">
+        <a href="почта" target="_blank" rel="noreferrer">
+        <div
+          className="header__links_button"
+          style={{
+            backgroundImage: `url(${require("../../images/mailLink.png")})`,
+          }}
+        />
+        </a>
+        <a href="почта" target="_blank" rel="noreferrer">
+        <div
+          className="header__links_button"
+          style={{
+            backgroundImage: `url(${require("../../images/phoneLink.png")})`,
+          }}
+        />
+        </a>
+        <a href="https://vk.com/ponomarenko92" target="_blank" rel="noreferrer">
+        <div
+          className="header__links_button"
+          style={{
+            backgroundImage: `url(${require("../../images/vkLink.png")})`,
+          }}
+        />
+        </a>
+        <a href="https://t.me/+YzbEMeV3FOpmYmMy" target="_blank" rel="noreferrer">
+        <div
+          className="header__links_button"
+          style={{
+            backgroundImage: `url(${require("../../images/tgLink.jpg")})`,
+          }}
+        />
+        </a>
       </div>
     </header>
   );
