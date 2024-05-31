@@ -1,8 +1,15 @@
 import React from "react";
-import NavTab from "../NavTab/NavTab";
+
 
 const Main = () => {
-  return <div className="main"></div>;
+  return <div className="main">
+    <div className="main__container">
+    <div className="main__container_block"/>
+    <div className="main__container_block"/>
+    <div className="main__container_block"/>
+    <div className="main__container_block"/>
+    </div>
+  </div>;
 };
 
 export default Main;
