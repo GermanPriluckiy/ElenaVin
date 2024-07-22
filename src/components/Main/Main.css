@@ -5,7 +5,8 @@
   width: 100%;
   min-height: 953px;
   background-color: #fcdce1;
-  /* background-image: url(../../images/example.jpg); */
+  background-image: url(../../images/backgroundInfo.jpg);
+  z-index: -1;
 }
 
 .main__container {
@@ -35,6 +36,7 @@
   width: calc(100% - 40px);
   text-align: center;
   border: 2px solid green;
+  color: rgb(168,93,146);
 }
 
 .main__container_button {

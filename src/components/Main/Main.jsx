@@ -1,7 +1,14 @@
 import React from "react";
 import { text1, text2, text3, text4 } from "../../utils/constants";
+import Modal from "../Modal/Modal";
 
 const Main = () => {
+  const [isModalOpen, setIsModalPopupOpen] = React.useState(false);
+
+  function handleModalOpenClick() {
+    setIsModalPopupOpen(true);
+  }
+
   return (
     <div className="main">
       <div className="main__container">
@@ -9,6 +16,7 @@ const Main = () => {
           <p className="main__container_description">{text1}</p>
           <button
             className="main__container_button"
+            onClick={handleModalOpenClick}
             style={{
               backgroundImage: `url(${require("../../images/icon1.jpg")})`,
             }}
@@ -43,6 +51,7 @@ const Main = () => {
           />
         </div>
       </div>
+      <Modal isModalOpen={isModalOpen} />
     </div>
   );
 };
