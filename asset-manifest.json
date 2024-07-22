@@ -1,17 +1,22 @@
 {
   "files": {
-    "main.css": "/ElenaVin/static/css/main.209f40e5.css",
-    "main.js": "/ElenaVin/static/js/main.607a2217.js",
+    "main.css": "/ElenaVin/static/css/main.29937f62.css",
+    "main.js": "/ElenaVin/static/js/main.55ab85be.js",
     "static/media/headerback.jpg": "/ElenaVin/static/media/headerback.e43071a71f8ca7ea83ea.jpg",
+    "static/media/backgroundInfo.jpg": "/ElenaVin/static/media/backgroundInfo.cc8d7f3d29f958700804.jpg",
     "static/media/gilroy-thinitalic.woff": "/ElenaVin/static/media/gilroy-thinitalic.934c6cd5b957baffdd3c.woff",
+    "static/media/icon1.jpg": "/ElenaVin/static/media/icon1.7811b12dd09c36eddac5.jpg",
+    "static/media/icon2.jpg": "/ElenaVin/static/media/icon2.6365c4b1bc0f5b563bec.jpg",
+    "static/media/icon3.jpg": "/ElenaVin/static/media/icon3.f55269d00dcfe7a4534f.jpg",
+    "static/media/icon4.jpg": "/ElenaVin/static/media/icon4.d6839cd77a8b2ad4281e.jpg",
     "static/media/gilroy-thinitalic.woff2": "/ElenaVin/static/media/gilroy-thinitalic.3353b751d207ee837bd6.woff2",
     "static/media/tgLink.jpg": "/ElenaVin/static/media/tgLink.4c6420ae71c7b90be886.jpg",
     "index.html": "/ElenaVin/index.html",
-    "main.209f40e5.css.map": "/ElenaVin/static/css/main.209f40e5.css.map",
-    "main.607a2217.js.map": "/ElenaVin/static/js/main.607a2217.js.map"
+    "main.29937f62.css.map": "/ElenaVin/static/css/main.29937f62.css.map",
+    "main.55ab85be.js.map": "/ElenaVin/static/js/main.55ab85be.js.map"
   },
   "entrypoints": [
-    "static/css/main.209f40e5.css",
-    "static/js/main.607a2217.js"
+    "static/css/main.29937f62.css",
+    "static/js/main.55ab85be.js"
   ]
 }
