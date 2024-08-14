@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ElenaVin/static/css/main.29937f62.css",
-    "main.js": "/ElenaVin/static/js/main.55ab85be.js",
+    "main.css": "/ElenaVin/static/css/main.543e41b8.css",
+    "main.js": "/ElenaVin/static/js/main.2ede9ccd.js",
     "static/media/headerback.jpg": "/ElenaVin/static/media/headerback.e43071a71f8ca7ea83ea.jpg",
     "static/media/backgroundInfo.jpg": "/ElenaVin/static/media/backgroundInfo.cc8d7f3d29f958700804.jpg",
     "static/media/gilroy-thinitalic.woff": "/ElenaVin/static/media/gilroy-thinitalic.934c6cd5b957baffdd3c.woff",
@@ -12,11 +12,12 @@
     "static/media/gilroy-thinitalic.woff2": "/ElenaVin/static/media/gilroy-thinitalic.3353b751d207ee837bd6.woff2",
     "static/media/tgLink.jpg": "/ElenaVin/static/media/tgLink.4c6420ae71c7b90be886.jpg",
     "index.html": "/ElenaVin/index.html",
-    "main.29937f62.css.map": "/ElenaVin/static/css/main.29937f62.css.map",
-    "main.55ab85be.js.map": "/ElenaVin/static/js/main.55ab85be.js.map"
+    "static/media/closeIcon.svg": "/ElenaVin/static/media/closeIcon.2ceb783afbab75916ddc.svg",
+    "main.543e41b8.css.map": "/ElenaVin/static/css/main.543e41b8.css.map",
+    "main.2ede9ccd.js.map": "/ElenaVin/static/js/main.2ede9ccd.js.map"
   },
   "entrypoints": [
-    "static/css/main.29937f62.css",
-    "static/js/main.55ab85be.js"
+    "static/css/main.543e41b8.css",
+    "static/js/main.2ede9ccd.js"
   ]
 }
