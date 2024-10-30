@@ -1,0 +1,23 @@
+.offline {
+  width: 100%;
+  min-height: 953px;
+  background-color: #fcdce1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.offline__list {
+  margin: 0;
+  padding: 0;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.offline__list_item {
+  margin: 0;
+  margin-top: 20px;
+  padding: 0;
+  font-size: 20px;
+  font-weight: normal;
+}
